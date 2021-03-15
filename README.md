@@ -12,7 +12,7 @@
 I created an app that generates a team profile by prompting the user to fill out information about their team manager and team members. The user can also input any number of team members with varying roles (i.e. engineers & interns) 
 
 ## First Look: 
-
+![Team Profile Generator](https://user-images.githubusercontent.com/69092983/111232314-dd682a00-85b8-11eb-9631-90d0c0accf78.png)
 
 ## Technologies Used:
 * [InquirerJS](https://www.npmjs.com/package/inquirer)
@@ -58,4 +58,4 @@ SOFTWARE.
 
 ## References: 
 * [Stack Overflow](https://stackoverflow.com/) 
-* [Mozilla](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS)
+* [Object-oriented JS](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS)
