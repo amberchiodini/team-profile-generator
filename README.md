@@ -12,7 +12,9 @@
 I created an app that generates a team profile by prompting the user to fill out information about their team manager and team members. The user can also input any number of team members with varying roles (i.e. engineers & interns) 
 
 ## First Look: 
-![Team Profile Generator](https://user-images.githubusercontent.com/69092983/111232314-dd682a00-85b8-11eb-9631-90d0c0accf78.png)
+![Screenshot](https://user-images.githubusercontent.com/69092983/111232314-dd682a00-85b8-11eb-9631-90d0c0accf78.png)
+
+![Video](https://user-images.githubusercontent.com/69092983/111386227-f2f15880-8679-11eb-85e4-c489f4355ec8.gif)
 
 ## Technologies Used:
 * [InquirerJS](https://www.npmjs.com/package/inquirer)
