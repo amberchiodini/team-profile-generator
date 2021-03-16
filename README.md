@@ -9,7 +9,7 @@
 * References 
 
 ## Description:
-I created an app that generates a team profile by prompting the user to fill out information about their team manager and team members. The user can also input any number of team members with varying roles (i.e. engineers & interns) 
+I created an app that generates a team profile by prompting the user to fill out information about their team manager and team members. The user can also input any number of team members with varying roles (i.e. engineers & interns).
 
 ## First Look: 
 ![Screenshot](https://user-images.githubusercontent.com/69092983/111232314-dd682a00-85b8-11eb-9631-90d0c0accf78.png)
